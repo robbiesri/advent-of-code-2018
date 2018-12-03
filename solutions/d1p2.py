@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import os
 import commonAOC
 
 inputDataFile = commonAOC.loadInputData("d1.txt")
